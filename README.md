@@ -1,5 +1,5 @@
 # ruckus2dokuwiki
-This python script pulls the runs the "sh tech support" command on a Ruckus ZoneDirector and dumps the output into a dokuwiki page for backup and reference
+This python script runs the "sh tech support" command on a Ruckus ZoneDirector and dumps the output into a dokuwiki page for backup and reference
 
 
 ### Recommendations ###
